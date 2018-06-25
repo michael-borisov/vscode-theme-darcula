@@ -16,7 +16,7 @@
 		"name": "Comment",
 		"scope": "comment",
 		"settings": {
-			"foreground": "#707070"
+			"foreground": "#808080"
 		}
 	}, {
 		"name": "Operator Keywords",
@@ -166,7 +166,7 @@
 		"name": "Documentation Block",
 		"scope": "comment.block.documentation",
 		"settings": {
-			"foreground": "#6A8759"
+			"foreground": "#629755"
 		}
 	}, {
 		"name": "Documentation Highlight (JSDoc)",
